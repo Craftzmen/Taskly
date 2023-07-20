@@ -1,6 +1,6 @@
 # React + Tailwind Template ( Incl. React Router )
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Tailwind](https://tailwindcss.com)
+This project was bootstrapped with [React](https://github.com/facebook/create-react-app) and [Tailwind](https://tailwindcss.com)
 
 ## Available Scripts
 
