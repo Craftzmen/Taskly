@@ -10,7 +10,6 @@ Installing the dependencies
 
 ```
 npm install
-
 ```
 Starting your project
 
@@ -22,8 +21,8 @@ To run tailwind
 
 ```
 npm run dev
-
 ```
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -64,7 +63,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 ```
-  npm run build ( fails to minifiy )
+npm run build ( fails to minifiy )
 ```
 
 This section has moved here: [Troubleshooting](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
