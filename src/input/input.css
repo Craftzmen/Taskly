@@ -3,7 +3,7 @@
 @tailwind components;
 
 @layer base {
-  .btn {
-    @apply bg-blue-100 text-blue-500 px-5 py-3 rounded-3xl;
+  .nav-item {
+    @apply inline-flex items-center gap-x-5 rounded-lg px-4 py-2.5 w-full hover:opacity-70 transition-all duration-200 ;
   }
 }
